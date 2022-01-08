@@ -20,7 +20,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "htpps://Zenater.github.io/homeworks",
+  "homepage": "https://zenater.github.io/ignat-homeworks/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
