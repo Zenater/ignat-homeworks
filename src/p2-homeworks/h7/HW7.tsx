@@ -27,6 +27,7 @@ function HW7() {
                     value={value}
                     onChangeOption={onChangeOption}
                 />
+
             </div>
 
             <hr/>
