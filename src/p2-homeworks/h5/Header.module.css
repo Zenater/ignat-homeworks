@@ -1,24 +1,34 @@
 .link {
     text-decoration: none;
-    color: #7a7;
-    margin: 10px;
+
 }
+
 .link:hover {
     color: #c9f;
+    font-size: 18px;
 }
-.active{
-    width: 21px;
-    height: 21px;
-    margin: 10px;
-    background: #99ff99;
+
+.active {
+    color: red;
 }
+
 .header {
     display: flex;
     width: 280px;
+    justify-content: space-around;
     transition-duration: 500ms;
     transform: translate(-220px);
+    border: 1px solid black;
 }
+
 .header:hover {
     transition-duration: 500ms;
     transform: translate(0);
+}
+
+.div {
+    width: 30px;
+    height: 30px;
+    background-color: forestgreen;
+
 }
